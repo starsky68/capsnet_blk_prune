@@ -13,6 +13,4 @@ Pruning".
 >
 >https://github.com/IntelLabs/distiller
 >
->Reference: https://arxiv.org/abs/1710.09829# capsnet_blk_prune
-# capsnet_blk_prune
-# capsnet_blk_prune
+>Reference: https://arxiv.org/abs/1710.09829
