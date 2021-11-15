@@ -6,6 +6,7 @@ Pruning".
 >Since the experimental results in the paper are based on the graphics card (Tesla k40) with low computing power, the experiments at that time were very laborious, and there was no good display of the model results. The calculation of the graphics card (GTX 1060 and 3090) used in this reproduction is higher than the former. The results in the paper will fluctuate, but it does not affect the performance of the overall improved model better than the original capsule network. If there is any problem with the algorithm reproduction, you are welcome to give suggestions.
 >
 >Paper written by Xiankun Zhang, Yue Sun, Yuan Wang,Zixuan Li, Na Li, Jing Su. For more information, please check out the paper here: https://www.sciencedirect.com/science/article/abs/pii/S0045790619302794
+>![image](https://github.com/starsky68/capsnet_blk_prune/blob/master/results/results.jpg)
 # Credits
 >Primarily referenced this torch implementations:
 >
